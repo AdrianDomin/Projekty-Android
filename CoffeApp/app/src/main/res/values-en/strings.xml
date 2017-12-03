@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoffeApp</string>
+    <string name="Name">Name</string>
+    <string name="topinngs">Toppings</string>
+    <string name="Whipped_cream">Whipped cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="QUANTITY">Quantity</string>
+    <string name="ORDER_SUMMARY">Order summary</string>
+    <string name="ORDER">Order</string>
+    <string name="Send_to_email">Sent to mail</string>
+    <string name="thank_you">Thank YOU!</string>
+</resources>

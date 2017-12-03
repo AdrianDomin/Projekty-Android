@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CoffeApp</string>
+
+    <!-- line 22 -->
+    <string name="Name">Imię</string>
+
+    <!--  line 28 -->
+    <string name="topinngs">Dodatki</string>
+
+    <!--line 43   -->
+    <string name="Whipped_cream">Bita śmietana</string>
+
+    <!--line 50 -->
+    <string name="Chocolate">Czekolada</string>
+
+    <!-- line 62  -->
+    <string name="QUANTITY">Ilość</string>
+
+    <!-- line 99  -->
+    <string name="ORDER_SUMMARY">Zamówienie</string>
+
+    <!-- line 118  -->
+    <string name="ORDER">Zamów</string>
+
+    <!-- line 122  -->
+    <string name="Send_to_email">Wyślij mail</string>
+
+
+
+
+    <!-- JAVA TRANSLATION -->
+
+
+    <!-- trzeba przetłumaczyć reszte -->
+    <!-- createOrderSummar >> line 132   -->
+    <string name="thank_you">Dziękuje za zamówienie!</string>
+
+</resources>
